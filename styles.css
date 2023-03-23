@@ -162,4 +162,8 @@ a:link {
     
   }
 
+  tr :hover{
+    background-color: green;
+
+  }
   
