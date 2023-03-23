@@ -140,9 +140,9 @@ a:link {
     background: skyblue;
     
   }
-  table, tr, td{
+  table, th, tr, td{
     border: 3px solid red;
-    color: aquamarine;
+    border-collapse: collapse;
 
   }
 
