@@ -140,7 +140,7 @@ a:link {
     background: skyblue;
     
   }
-  table, th, td{
+  #table1, th, td{
     border: 3px solid white;
     border-collapse: collapse;
 
@@ -153,3 +153,12 @@ a:link {
   th, td{
     background-color: #34dab4;
   }
+
+  .td2, .th2{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    
+  }
+
+  
