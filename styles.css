@@ -140,12 +140,16 @@ a:link {
     background: skyblue;
     
   }
-  table, th, tr, td{
-    border: 3px solid red;
+  table, th, td{
+    border: 3px solid white;
     border-collapse: collapse;
 
   }
 
   table{
     width: 100%;
+  }
+
+  th, td{
+    background-color: #34dab4;
   }
